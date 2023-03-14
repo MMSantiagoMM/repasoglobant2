@@ -1,0 +1,7 @@
+.estilo{
+    background-image: url("../img/matrx2.jpg");
+    background-position: top center;
+    background-size: cover;
+    padding: 25%;
+    background-attachment: fixed;
+}
